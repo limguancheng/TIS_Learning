@@ -21,12 +21,12 @@ Key takeaways from the event:
 Grateful for the opportunity to learn, exchange ideas, and witness the future of educational innovation in action.
 
 ---
-## Group Photo
+## 👥 Group Collaboration & Team Members
 ![Group Photo](./group_photo.jpg)
 
 Team Members (Group Collaboration):
 
-* TEY HAO RUI (Matric: A26CS038)
-* LIM GUAN CHENG (Matric: A26CS0162)
-* TEE JIA XUAN (Matric: A26CS0392)
-* MUHAMMAD ADLI ZULFA BIN MOHAMAD ZAHID (Matric: A26CS0101)
+* TEY HAO RUI (Matric number: A26CS038)
+* LIM GUAN CHENG (Matric number: A26CS0162)
+* TEE JIA XUAN (Matric number: A26CS0392)
+* MUHAMMAD ADLI ZULFA BIN MOHAMAD ZAHID (Matric number: A26CS0101)
