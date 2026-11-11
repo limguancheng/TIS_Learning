@@ -14,9 +14,9 @@ It was an inspiring experience to engage with educators and presenters through i
 ![Poster](./poster.jpg)
 
 Key takeaways from the event: 
-**💡 The power of bridging research with real-world teaching applications.**
-**💡 How innovative pedagogical frameworks drive student engagement.**
-**💡 Building stronger interdisciplinary connections across academic communities.**
+* **💡 The power of bridging research with real-world teaching applications.**
+* **💡 How innovative pedagogical frameworks drive student engagement.**
+* **💡 Building stronger interdisciplinary connections across academic communities.**
 
 Grateful for the opportunity to learn, exchange ideas, and witness the future of educational innovation in action.
 
