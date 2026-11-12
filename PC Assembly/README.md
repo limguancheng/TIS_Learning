@@ -48,7 +48,7 @@ This practical session effectively bridged theoretical computer architecture con
 ![Group Photo](./group.jpg)
 
 
-* **TEY HAO RUI** (Matric number: A26CS038)
+* **TEY HAO RUI** (Matric number: A26CS0398)
 * **LIM GUAN CHENG** (Matric number: A26CS0162)
 * **TEE JIA XUAN** (Matric number: A26CS0392)
 * **MUHAMMAD ADLI ZULFA BIN MOHAMAD ZAHID** (Matric number: A26CS0101)
