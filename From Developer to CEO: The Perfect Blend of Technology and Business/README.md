@@ -30,3 +30,20 @@ Participating in this session, I learned how to translate theoretical TIS framew
 ## 📝 Personal Reflection
 
 This webinar gave a lot of inspiration. As Dr. Hafis told us about his experience transitioning from a lecturer to a CEO, stepping out of the comfort zone is never easy, but you never know what could happen if you don't even try!
+
+---
+
+## Group Work
+*As part of our SECP1513 coursework*
+
+![Group Work](./poster.jpg)
+
+---
+
+## 👥 Group Collaboration & Team Members
+
+
+* **TEY HAO RUI (Matric No: A26CS0398)**
+* **LIM GUAN CHENG (Matric No: A26CS0162)**
+* **TEE JIA XUAN (Matric No: A26CS0392)**
+* **MUHAMMAD ADLI ZULFA BIN MOHAMAD ZAHID (Matric No: A26CS0101)**
