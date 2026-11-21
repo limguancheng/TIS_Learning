@@ -37,6 +37,6 @@ It was an inspiring experience to engage with educators, researchers, and presen
 * **TEY HAO RUI (Matric No: A26CS0398)**
 * **LIM GUAN CHENG (Matric No: A26CS0162)**
 * **TEE JIA XUAN (Matric No: A26CS0392)**
-* **MUHAMMAD ADLI ZULFA BIN MOHAMAD ZAHID (Matric: A26CS0101)**
+* **MUHAMMAD ADLI ZULFA BIN MOHAMAD ZAHID (Matric No: A26CS0101)**
 * **MUHAMMAD AQIL ALHAY BIN ZULKARNAIN (Matric: A26CS0206)**
 
