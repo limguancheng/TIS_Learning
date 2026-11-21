@@ -2,14 +2,31 @@
 
 * 📅 **Date:** 28–29 October 2026
 
-
 ---
 
 ## 📖 Session Overview
 
-I attended **NEW ACADEMIA LEARNING INNOVATION 2026 (NALI2026)** themed *"Empowerment of Teaching and Research Connections."* 
+I attended **NEW ACADEMIA LEARNING INNOVATION 2026 (NALI2026)** themed *"Empowerment of Teaching and Research Connections."*
 
 It was an inspiring experience to engage with educators, researchers, and presenters through interactive interview sessions, gaining deep insights into modern academic innovation, collaborative research, and emerging educational technologies.
+
+---
+
+## 🎬 Final Video
+
+[Watch the NALI 2026 visit and interview video on YouTube](https://www.youtube.com/watch?v=_jAPp9ZF97w)
+
+The video documents our poster visits, interviews with presenters, group reflections, and concluding thoughts on ICT innovation in teaching and learning.
+
+---
+
+## 🧩 Assignment Deliverables
+
+- AI-avatar introduction to NALI 2026
+- Poster coverage highlighting ICT innovations for teaching and learning
+- Interviews with poster presenters and innovators
+- Group reflections on the selected posters
+- Edited video with subtitles and a conclusion
 
 ---
 
@@ -39,4 +56,3 @@ It was an inspiring experience to engage with educators, researchers, and presen
 * **TEE JIA XUAN (Matric No: A26CS0392)**
 * **MUHAMMAD ADLI ZULFA BIN MOHAMAD ZAHID (Matric No: A26CS0101)**
 * **MUHAMMAD AQIL ALHAY BIN ZULKARNAIN (Matric: A26CS0206)**
-
